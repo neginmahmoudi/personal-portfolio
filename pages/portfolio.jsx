@@ -17,7 +17,7 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              In the following ,I have my projects to show.
             </p>
 
             <div className="portfolio-wrapper">
