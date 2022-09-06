@@ -17,8 +17,8 @@ function About() {
               About
             </h1>
             <p className="description">
-              I have been working as a web developer for 10 years.
-              Here you can see my work . feel free to ask me questions.
+              I have been working as a web developer for 10 years. Here you can
+              see my work . feel free to ask me questions.
             </p>
           </div>
         </div>

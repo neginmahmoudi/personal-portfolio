@@ -16,11 +16,11 @@ function Contact() {
             <h1 data-cy="pageTitle" className="title">
               Contact
             </h1>
-            <p className="description">
-              This is how you can reach me .
-            </p>
+            <p className="description">This is how you can reach me .</p>
             <ul className="contact-links">
-              <li className="contact-item">Email: negin_mahmoudii76@gmail.com</li>
+              <li className="contact-item">
+                Email: negin_mahmoudii76@gmail.com
+              </li>
               <li className="contact-item">Phone: +436609494205</li>
             </ul>
           </div>
